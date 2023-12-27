@@ -46,3 +46,4 @@ let fruits = [
 - Each button should have different text based on the value
 - When user clicks on the button display the name of fruit in `alert`
 - Don't forget to use `key` when you are using `map` on array
+sdfsdda
